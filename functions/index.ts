@@ -1,7 +1,7 @@
 import { renderHtml } from "./template";
 
 export default {
-  async fetch(request: Request): Promise<Response> {
+  async fetch(_request: Request): Promise<Response> {
     // JST (UTC+9) で現在日時を取得
     const now = new Date(Date.now() + 9 * 60 * 60 * 1000);
     const month = now.getUTCMonth() + 1; // 1-12
