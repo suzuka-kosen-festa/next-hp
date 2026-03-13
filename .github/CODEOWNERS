@@ -1,0 +1,7 @@
+# Default codeowner
+* @shiron-dev
+
+# Exclude package management and workflows from CODEOWNERS
+package.json
+pnpm-lock.yaml
+.github/workflows/
