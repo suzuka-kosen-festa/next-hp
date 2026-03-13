@@ -1,4 +1,4 @@
-name = "suzuka-kosen-festa"
+name = "suzuka-kosen-festa-outside-period-site"
 type = "javascript"
 compatibility_date = "2024-12-16"
 main = "functions/index.ts"

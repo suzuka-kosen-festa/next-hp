@@ -1,7 +1,7 @@
 {
-  "name": "suzuka-kosen-festa",
+  "name": "suzuka-kosen-festival-outside-period-site",
   "version": "1.0.0",
-  "description": "鈴鹿高専祭HP",
+  "description": "鈴鹿高専祭 開催期間外サイト",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
