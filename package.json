@@ -9,12 +9,12 @@
     "lint": "eslint functions"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250101.0",
+    "@cloudflare/workers-types": "4.20260313.1",
     "@eslint/js": "^10.0.1",
     "@typescript-eslint/eslint-plugin": "^8.17.0",
     "@typescript-eslint/parser": "^8.17.0",
     "eslint": "^10.0.3",
-    "typescript": "^5.7.2",
-    "wrangler": "^3.80.0"
+    "typescript": "5.9.3",
+    "wrangler": "3.114.17"
   }
 }
