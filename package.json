@@ -10,10 +10,10 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20260313.1",
-    "@eslint/js": "^10.0.1",
-    "@typescript-eslint/eslint-plugin": "^8.17.0",
-    "@typescript-eslint/parser": "^8.17.0",
-    "eslint": "^10.0.3",
+    "@eslint/js": "10.0.1",
+    "@typescript-eslint/eslint-plugin": "8.57.0",
+    "@typescript-eslint/parser": "8.57.0",
+    "eslint": "10.0.3",
     "typescript": "5.9.3",
     "wrangler": "3.114.17"
   }
