@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v6
-      - uses: shiron-dev/actions/setup-node@0cc65c3143f6a0d119fa8085c8b2ae3dd25e657b # v1.6.3
+      - uses: shiron-dev/actions/setup-node@8780bd20d1ef046844aa1a1c2e9d96fefaa1384b # v1.7.0
       - run: pnpm install
       - run: pnpm lint
 
@@ -23,6 +23,6 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v6
-      - uses: shiron-dev/actions/setup-node@0cc65c3143f6a0d119fa8085c8b2ae3dd25e657b # v1.6.3
+      - uses: shiron-dev/actions/setup-node@8780bd20d1ef046844aa1a1c2e9d96fefaa1384b # v1.7.0
       - run: pnpm install
       - run: pnpm typecheck
